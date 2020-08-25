@@ -12,3 +12,4 @@ To get an idea how these another measurements could look like, watch this whiteb
 
 ## Table of Contents
 
+#### 1. How to buy
