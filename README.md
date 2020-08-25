@@ -8,4 +8,4 @@ It is also worth to mention that TREZOR Model T is a device you can buy for arou
 
 Okay, you probably still need a treshold, right? I would say 100 000 USD is the boundary. If you have less than that in your crypto, it should be okay to follow these recommendations, if you are over, you should consider another measurements, complementary devices and modus operandi.
 
-To get an idea how these another measurements could look like, watch this whiteboard YouTube video created by Charles Hoskinson [https://www.youtube.com/embed/fqrAzBAi64c](Security Foundations: How to Secure Your Wallet Recovery Phrase for Cryptocurrency Wallets)
+To get an idea how these another measurements could look like, watch this whiteboard YouTube video created by Charles Hoskinson [Security Foundations: How to Secure Your Wallet Recovery Phrase for Cryptocurrency Wallets](https://www.youtube.com/embed/fqrAzBAi64c)
