@@ -12,4 +12,7 @@ To get an idea how these another measurements could look like, watch this whiteb
 
 ## Table of Contents
 
-#### 1. How to buy
+#### 1. Security principles
+#### 2. Where to buy (and where not)
+#### 3. First setup (Model T)
+#### 4. Storing your recovery keys (seed) 
