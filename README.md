@@ -12,7 +12,7 @@ To get an idea how these another measurements could look like, watch this whiteb
 
 ## Table of Contents
 
-1. [docs/01_Do’s_and_Don’ts_of_Keeping_Your_Recovery_Seed_Safe.md](Essential practices and security principles)
+  1. [Essential practices and security principles](docs/01_Do’s_and_Don’ts_of_Keeping_Your_Recovery_Seed_Safe.md)
 1. Where to buy (and where not)
 1. First setup (Model T)
 1. Storing your recovery keys (seed) 
