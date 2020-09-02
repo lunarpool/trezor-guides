@@ -3,7 +3,7 @@
 https://wiki.trezor.io/Security
 
 
-# Back to Home page
+# Table of Contents
 
 [Back to Home page](../README.md)
 
