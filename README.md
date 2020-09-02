@@ -45,7 +45,7 @@ We are doing this completely free without any rewards nor compensation, if you w
 1. First setup (Model T)
 1. Storing your recovery keys (seed)
 
-## Contacts
+# Contacts
 
 * Homepage: [https://lunarpool.io](https://lunarpool.io)
 * Twitter: [@lunarpool_io](https://twitter.com/lunarpool_io)
