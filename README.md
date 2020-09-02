@@ -16,7 +16,11 @@ To get an idea how these another measurements could look like, watch/study these
 
 Before we start, you should know what our intention and motivation is. We are running Cardano Stake Pool and would like to offere these supporting materials to our delegators and whole community to help raise the overall level of education, secure handling and manipulation with cryptocurrencies. Preferably using Cardano's ADA token, TREZOR Model T HW wallet (as this is the tool we are currently using ourselves) and in various languages if possible.
 
-## Support
+## Bugs, mistakes, questions
+
+Should you have any question related to this content or crypto, feel free to contact us on Twitter or Telegram Group. Also if you find and bugs, wrong or misleading information, please get in touch, see contacts at the bottom of this page.
+
+## Support / donation
 
 We are doing this completely free without any rewards nor compensation, if you would like to support us, see below couple of options:
 
@@ -26,15 +30,16 @@ We are doing this completely free without any rewards nor compensation, if you w
 * Buy Trezor HW wallet or accessories using our affiliate link: [https://shop.trezor.io](https://shop.trezor.io/?offer_id=10&aff_id=5184&source=github_trezor_guides)
 * Donate ADA to ```addr1qyv2c6p03xptvycd67t5kuu4ujtppe2rjauv9u94n2pq9q5z9wqspgf5ggtmw4tpumsgv8jmecauecd0e9p5u69n2hjqxvec5w```
 
-## Contacts
-* Homepage: [https://lunarpool.io](https://lunarpool.io)
-* Twitter: [@lunarpool_io](https://twitter.com/lunarpool_io)
-* Telegram: [@lunarpool_io](https://t.me/lunarpool_io)
-* Telegram group: [https://t.me/lunarpool](https://t.me/lunarpool)
-
 ## Table of Contents
 
 1. [Essential practices and security principles](docs/01_The_essential_practices_and_principles.md)
 1. [Where to buy (and where not)](docs/02_Where_to_buy.md)
 1. First setup (Model T)
-1. Storing your recovery keys (seed) 
+1. Storing your recovery keys (seed)
+
+## Contacts
+
+* Homepage: [https://lunarpool.io](https://lunarpool.io)
+* Twitter: [@lunarpool_io](https://twitter.com/lunarpool_io)
+* Telegram: [@lunarpool_io](https://t.me/lunarpool_io)
+* Telegram group: [https://t.me/lunarpool](https://t.me/lunarpool)
