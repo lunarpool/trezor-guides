@@ -9,7 +9,7 @@ You probably already have selected one or more tokens you want to buy now. If th
 
 ### 2. No coins on Exchanges
 
-History of crypto industry showed that Exchanges are not a safe place for your coins. There are couple of incidents and stolen funds from Exchanges every year and despite it all improved very much during last years someone counted that there is a 5% risk of your coins being stolen when stored on Exchange.
+History of crypto industry showed that Exchanges are not a safe place for your coins. There are couple of incidents and stolen funds from Exchanges every year and despite it all improved very much during last years someone counted that there is a 5% risk of your coins being stolen when stored on Exchange. There were 11 major exchange hacks in 2019 with total amount lost over $117 million.
 
 We follow the rule "not your keys, not your crypto" which emphasizes the main issue, all the coins are held in their wallets, they have access to it, you don't. If they decide to shut the business and take your coins no one will help you.
 
@@ -55,7 +55,16 @@ Therefore we would recommend you **Exodus**, preferably desktop version, visit [
 Now it's time for the list of coins you made at point 1. You will now check their compatibility and level of support with HW wallets and Exodus.
 
 1. **Trezor compatibility and support**
-Visit [https://trezor.io/coins/](https://trezor.io/coins?offer_id=12&aff_id=5184&source=github_trezor_guides_Choosing_the_right_working_tools)
+
+Visit [https://trezor.io/coins/](https://trezor.io/coins?offer_id=12&aff_id=5184&source=github_trezor_guides_Choosing_the_right_working_tools) and make a note whether your coins are compatible with Model One, Model T and which wallets are supported. If Trezor is listed then you will be able to manage the coin directly from Trezor web page, if there are different wallets listed only then you'll have to visit different website and authorize with your Trezor device. If you see Exodus mentioned as well then our prefered multi wallet is compatible as well.
+
+1. **Ledger compatibility and support**
+
+Visit [https://www.ledger.com/supported-crypto-assets/](https://www.ledger.com/supported-crypto-assets/) and make a note whether Send/Receive is available and which wallets are supported. Similar to Trezor, wherever you see Ledger Live means the coins is manageable natively by the device and its user interface.
+
+3. **Exodus compatibility***
+
+
 
 # Table of Contents
 
