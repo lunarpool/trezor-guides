@@ -39,12 +39,15 @@ We are doing this completely free without any rewards nor compensation, if you w
 * **Donate ADA** to our wallet ```addr1qyv2c6p03xptvycd67t5kuu4ujtppe2rjauv9u94n2pq9q5z9wqspgf5ggtmw4tpumsgv8jmecauecd0e9p5u69n2hjqxvec5w```
 
 # Table of Contents
-
+## Before you start
 1. [The essential practices and security principles](docs/The_essential_practices_and_principles.md)
 1. [Choosing the right working tools and security level](docs/Choosing_the_righ_working_tools.md)
+## Action
 1. [Where to buy (and where not) your HW wallet](docs/Where_to_buy_HW_wallet.md)
 1. First setup (Model T)
 1. Securing your recovery keys (seed)
+## Safe HODLing
+1. Balance check
 
 # Contacts
 
