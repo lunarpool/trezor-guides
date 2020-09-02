@@ -1,4 +1,4 @@
-# TREZOR - HW wallet guides
+# Handling your crypto
 
 We would like to present a set of step-by-step user guides and best practises on how to use Trezor HW wallet, which security basics and best practises to follow.
 
