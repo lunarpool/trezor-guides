@@ -18,7 +18,7 @@ To get an idea how these another measurements could look like, watch/study these
 
 - **Charles Hoskinson's** YouTube whiteboard video - [Security Foundations: How to Secure Your Wallet Recovery Phrase for Cryptocurrency Wallets](https://www.youtube.com/embed/fqrAzBAi64c)
 
-</details>
+<br /></details>
 
 ## Our intentions and motivation
 
