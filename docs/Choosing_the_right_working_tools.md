@@ -29,8 +29,12 @@ No matter you decided to use software wallet or not, you should know what is ava
 
 There are 2 major HW wallet producers and most crypto projects are trying to integrate with them:
 
-* **Trezor** - check [https://trezor.io/](https://trezor.io/?offer_id=12&aff_id=5184&source=github_Choosing_the_right_working_tools.md) and scroll down through the page
-* **Ledger** -
+* **Trezor** by SatoshiLabs - check [https://trezor.io/](https://trezor.io/?offer_id=12&aff_id=5184&source=github_trezor_guides_Choosing_the_right_working_tools) and scroll down through the page for model comparison
+* **Ledger** by Ledger SAS - check [https://www.ledger.com](https://www.ledger.com)
+
+We can not say which one is better, there are different approaches, Trezor's codebase is open-source, Ledger proprietary. Both will provide similar level of security. If you are interested in more details, try to find introductionary videos on Youtube in your language.
+
+> :bulb: This set of guides is done using Trezor so if you decide for Ledger, it's okay, but following these guides will be limited
 
 ### 5. Managing wallets from one place
 
@@ -48,7 +52,10 @@ Therefore we would recommend you **Exodus**, preferably desktop version, visit [
 
 ### 7. Coin compatibility
 
-Now it's time for the list of coins you made in point 1. You will now check their compatibility with HW wallets and Exodus.
+Now it's time for the list of coins you made at point 1. You will now check their compatibility and level of support with HW wallets and Exodus.
+
+1. **Trezor compatibility and support**
+Visit [https://trezor.io/coins/](https://trezor.io/coins?offer_id=12&aff_id=5184&source=github_trezor_guides_Choosing_the_right_working_tools)
 
 # Table of Contents
 
