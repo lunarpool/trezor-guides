@@ -12,7 +12,7 @@ History of crypto industry showed that Exchanges are not a safe place for your c
 
 We follow the rule "not your keys, not your crypto" which emphasizes the main issue, all the coins are held in their wallets, they have access to it, you don't. If they decide to shut the business and take your coins no one will help you.
 
-If you plan to hold your coins on a Exchange then these guides are not for you.
+If you plan to hold your coins on a Exchange **long-term** then these guides are not for you.
 
 ### 3. Software or hardware wallet?
 
