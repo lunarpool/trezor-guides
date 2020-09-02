@@ -99,7 +99,7 @@ Test the mentioned applications, play with them, check websites and make the dec
 
 Don't buy anything yet, we will do that later!
 
-There were many new information, sleep on it and then proceed with next steps, go back to Home page using link below.
+There were many new information, sleep on it and then proceed with next steps, go back to Home page using the link below.
 
 # Table of Contents
 
