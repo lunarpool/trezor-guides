@@ -16,7 +16,9 @@ Before we start, you should know what our intention and motivation is. We are ru
 
 We are doing this completely free without any rewards nor compensation, if you would like to support us, see below couple of options:
 
-* Delegate your ADA to our stake pool: Ticker: ***MOON1*** (Pool ID: 8253f8a94044070ddb196884eb3e912e9b6dca9a0e3210325a09a335)
+* Delegate your ADA to our stake pool:
+```Ticker: MOON1
+Pool ID: 8253f8a94044070ddb196884eb3e912e9b6dca9a0e3210325a09a335)```
 * Buy Trezor HW wallet or accessories using our affiliate link: [https://shop.trezor.io](https://shop.trezor.io/?offer_id=10&aff_id=5184&source=github_trezor_guides)
 * Donate some ADA to: ```addr1qyv2c6p03xptvycd67t5kuu4ujtppe2rjauv9u94n2pq9q5z9wqspgf5ggtmw4tpumsgv8jmecauecd0e9p5u69n2hjqxvec5w```
 
