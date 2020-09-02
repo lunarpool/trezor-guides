@@ -7,8 +7,8 @@ We would like to present a set of step-by-step user guides and best practises on
 These guides are primarily focused on mass population managing their "common" wealth & savings. High value crypto accounts or persons having their lifetime savings in crypto or so-called whales should follow much more strict rules and security measurements than provided here.
 
 <details>
-  <summary>Read more...</summary>
-
+  <summary>Show more...</summary>
+  
 You now probably ask what is a high value, who is a whale or what is the threshhold to follow higher level of security... The right answer is: it's up to you. You have to take into account the risk of losing your crypto and what it would mean to you.
 
 It is also worth mentioning that **TREZOR Model T** is a device you can buy for around 200 USD, **Trezor ONE** for around 70 USD. Of course you can store your 10 millions USD in crypto to that device and we would recommend you that, but with such a large stake you have to know what to do when you lose your device, how to store its recovery keys, to which device it is safe to connect it and so on.
