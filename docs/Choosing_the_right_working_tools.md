@@ -95,7 +95,8 @@ Now you should decide which way to go, which wallet to use. To make your decissi
 
 ### 10. Time for a decission
 
-Test the mentioned applications, play with them, check websites and make the decission. Don't buy anything yet, we will do that in next step.
+Test the mentioned applications, play with them, check websites and make the decission.
+Don't buy anything yet, we will do that in next steps.
 
 # Table of Contents
 
