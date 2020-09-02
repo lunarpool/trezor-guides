@@ -51,3 +51,4 @@ We are doing this completely free without any rewards nor compensation, if you w
 * Twitter: [@lunarpool_io](https://twitter.com/lunarpool_io)
 * Telegram: [@lunarpool_io](https://t.me/lunarpool_io)
 * Telegram group: [https://t.me/lunarpool](https://t.me/lunarpool)
+* YouTube: planned
