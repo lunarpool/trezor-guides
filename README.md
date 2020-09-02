@@ -40,9 +40,9 @@ We are doing this completely free without any rewards nor compensation, if you w
 
 # Table of Contents
 
-1. [Essential practices and security principles](docs/01_The_essential_practices_and_principles.md)
+1. [Essential practices and security principles](docs/The_essential_practices_and_principles.md)
 1. Choosing the right working tools and security level
-1. [Where to buy (and where not)](docs/02_Where_to_buy.md)
+1. [Where to buy (and where not)](docs/Where_to_buy_HW_wallet.md)
 1. First setup (Model T)
 1. Securing your recovery keys (seed)
 
