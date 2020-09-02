@@ -22,6 +22,7 @@ Below are some suggestions about where to keep your recovery seed.
 * In a locked drawer, away from water and fire.
 * In a place where no potential thieves are likely to access it.
 * Somewhere where your family members will find it if something unexpected happens to you.
+
 **Where NOT to keep your seed**
 * Shared or public spaces (e.g., your office work desk)
 * Dropbox
