@@ -20,7 +20,7 @@ If you are new to crypto, it is absolutely okay to start with 1 coin, small amou
 
 On the other hand if know you will use the hardware wallet or your investment will be higher, we recommend you to start with HW wallet from the very beginning and get faimiliar with its use.
 
-Some crypto projects also have a minimum wallet balance set which is not transferrable (and may be unlocked in the future) se the more different wallets you use the more of them you will have with small amount of money. E.g. each EOS wallet has to have a minimum of 1 coin available (3 USD), XRP had 20 coins (6 USD), XLM 1 coin (0,1 USD) and so on.
+> :bulb: Some crypto projects also have a minimum wallet balance set which is not transferrable (and may be unlocked in the future) se the more different wallets you use the more of them you will have with small amount of money. E.g. each EOS wallet has to have a minimum of 1 coin available (3 USD), XRP had 20 coins (6 USD), XLM 1 coin (0,1 USD) and so on.
 
 # Table of Contents
 
