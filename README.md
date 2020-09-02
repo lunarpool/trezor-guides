@@ -32,9 +32,9 @@ We are doing this completely free without any rewards nor compensation, if you w
   * Ticker: MOON1
   * Pool ID: ```8253f8a94044070ddb196884eb3e912e9b6dca9a0e3210325a09a335)```
 * Buy Trezor HW wallet or accessories using our affiliate link: [https://shop.trezor.io](https://shop.trezor.io/?offer_id=10&aff_id=5184&source=github_trezor_guides)
-* Donate ADA to ```addr1qyv2c6p03xptvycd67t5kuu4ujtppe2rjauv9u94n2pq9q5z9wqspgf5ggtmw4tpumsgv8jmecauecd0e9p5u69n2hjqxvec5w```
+* Donate ADA to our wallet ```addr1qyv2c6p03xptvycd67t5kuu4ujtppe2rjauv9u94n2pq9q5z9wqspgf5ggtmw4tpumsgv8jmecauecd0e9p5u69n2hjqxvec5w```
 
-## Table of Contents
+# Table of Contents
 
 1. [Essential practices and security principles](docs/01_The_essential_practices_and_principles.md)
 1. [Where to buy (and where not)](docs/02_Where_to_buy.md)
