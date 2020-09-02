@@ -4,7 +4,21 @@ This page will guide you through the initial questions and decisions you should 
 **1. What coin(s) are you interested in?**
 
 You probably already have selected one or more tokens you want to buy now. If there are more, make a complete list of those you seriously plan to buy now or in near future. Think about how much money you plan to invest and how you split it.
+
 The reason for doing this is that various coins use various wallets, there are also multi cryptocurrency wallets available, but you'll have to check their compatibility and in the end not all coins are supported by HW wallets. So this is important for your future decisions.
+
+**2. Coins on Exchanges**
+History of crypto industry showed that Exchanges are not a safe place for your coins. There are couple of incidents and stolen funds from Exchanges every year and despite it all improved very much during last years someone counted that there is a 5% risk of your coins being stolen when stored on Exchange.
+
+We follow the rule "not your keys, not your crypto" which emphasizes the main issue you have. Exchanges hold coins on in their wallets
+
+**3. Software or hardware wallet?**
+
+If you are new to crypto, it is absolutely okay to start with 1 coin, small amount of money and a software wallet. Once you get familiar with your crypto handling you can upgrade your security to another level.
+
+On the other hand if know you will use the hardware wallet or your investment will be higher, we recommend you to start with HW wallet from the very beginning and get faimiliar with its use.
+
+Some crypto projects also have a minimum wallet balance set which is not transferrable (and may be unlocked in the future) se the more different wallets you use the more of them you will have with small amount of money. E.g. each EOS wallet has to have a minimum of 1 coin available (3 USD), XRP had 20 coins (6 USD), XLM 1 coin (0,1 USD) and so on.
 
 # Table of Contents
 
