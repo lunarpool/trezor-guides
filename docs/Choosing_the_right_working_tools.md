@@ -8,9 +8,12 @@ You probably already have selected one or more tokens you want to buy now. If th
 The reason for doing this is that various coins use various wallets, there are also multi cryptocurrency wallets available, but you'll have to check their compatibility and in the end not all coins are supported by HW wallets. So this is important for your future decisions.
 
 **2. Coins on Exchanges**
+
 History of crypto industry showed that Exchanges are not a safe place for your coins. There are couple of incidents and stolen funds from Exchanges every year and despite it all improved very much during last years someone counted that there is a 5% risk of your coins being stolen when stored on Exchange.
 
-We follow the rule "not your keys, not your crypto" which emphasizes the main issue you have. Exchanges hold coins on in their wallets
+We follow the rule "not your keys, not your crypto" which emphasizes the main issue, all the coins are held in their wallets, they have access to it, you don't. If they decide to shut the business and take your coins no one will help you.
+
+If you plan to hold your coins on a Exchange then these guides are not for you.
 
 **3. Software or hardware wallet?**
 
