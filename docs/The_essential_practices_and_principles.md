@@ -2,7 +2,7 @@
 
 https://wiki.trezor.io/Security
 
-## Crypto holder
+## What should you follow and prepare for
 
 ### Do not talk about how much cryptocurrency funds you have
 In general, it is better to keep quiet about the balances on your accounts. Talking too much is particularly dangerous on social media and internet forums.
@@ -31,7 +31,7 @@ Below are some suggestions about where to keep your recovery seed.
 * Offline (digital) backup (e.g., phone, digital photos, etc.)
 * Encrypted folder
 
-## HW wallets
+## What are the benefits of HW wallets
 ### Zero trust principle
 HW wallet security model works on the zero trust principle. The zero trust principle says that any part of a secure system could be compromised at some point.
 
