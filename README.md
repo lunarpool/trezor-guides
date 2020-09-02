@@ -43,7 +43,7 @@ We are doing this completely free without any rewards nor compensation, if you w
 1. [Essential practices and security principles](docs/01_The_essential_practices_and_principles.md)
 1. [Where to buy (and where not)](docs/02_Where_to_buy.md)
 1. First setup (Model T)
-1. Storing your recovery keys (seed)
+1. Securing your recovery keys (seed)
 
 # Contacts
 
