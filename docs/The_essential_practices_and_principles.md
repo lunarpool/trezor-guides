@@ -1,7 +1,5 @@
 # The essential practices and principles
 
-https://wiki.trezor.io/Security
-
 ## What should you follow and prepare for
 
 ### Do not talk about how much cryptocurrency funds you have
