@@ -1,6 +1,10 @@
 # TREZOR - HW wallet guides
 
-We would like to present a set of step-by-step user guides and best practises on how to use Trezor HW wallet, which security basics and best practises to follow, primarily focused on mass population managing their "common" wealth & savings. High value crypto accounts or persons having their lifetime savings in crypto or so-called whales should follow much more strict rules and security measurements than provided here.
+We would like to present a set of step-by-step user guides and best practises on how to use Trezor HW wallet, which security basics and best practises to follow.
+
+## Who should use these guides
+
+These guides are primarily focused on mass population managing their "common" wealth & savings. High value crypto accounts or persons having their lifetime savings in crypto or so-called whales should follow much more strict rules and security measurements than provided here.
 
 You now probably ask what is a high value, who is a whale or what is the threshhold to follow higher level of security... The right answer is: it's up to you. You have to take into account the risk of losing your crypto and what it would mean to you.
 
