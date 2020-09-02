@@ -42,7 +42,7 @@ We are doing this completely free without any rewards nor compensation, if you w
 
 1. [The essential practices and security principles](docs/The_essential_practices_and_principles.md)
 1. [Choosing the right working tools and security level](docs/Choosing_the_righ_working_tools.md)
-1. [Where to buy (and where not)](docs/Where_to_buy_HW_wallet.md)
+1. [Where to buy (and where not) your HW wallet](docs/Where_to_buy_HW_wallet.md)
 1. First setup (Model T)
 1. Securing your recovery keys (seed)
 
