@@ -62,9 +62,19 @@ Visit [https://trezor.io/coins/](https://trezor.io/coins?offer_id=12&aff_id=5184
 
 Visit [https://www.ledger.com/supported-crypto-assets/](https://www.ledger.com/supported-crypto-assets/) and make a note whether Send/Receive is available and which wallets are supported. Similar to Trezor, wherever you see Ledger Live means the coins is manageable natively by the device and its user interface.
 
-3. **Exodus compatibility***
+3. **Exodus compatibility**
 
 Visit [https://www.exodus.io/status/](https://www.exodus.io/status/) to check the coins Exodus can support. Note that the support is different for Mobile, Desktop and Desktop+Trezor.
+
+### 8. Cryptocurrency portfolio tracker
+
+This is the last missing bit. No matter how you will manage your coins and whther you use HW wallet or not, portfolio tracker is the app you should have for your fast and easy portfolio tracking, price alerting and more (if you like).
+
+Portfolio tracker is an application, preferably mobile, where you keep track of coins you bought, ideally all the buys and their price levels and check your total crypto value. How it is different from a wallet? It does not say whether your crypto are still in your wallet, it shows what balances/trades you put in, but it is handy you have it in your cell phone and can check anytime without the need of complex authorization and feer that someone will hack it and steal your coins.
+
+There are many apps available, we will mention 2 we believe are used by most:
+1. **Crypto Pro** - [https://cryptopro.app](https://cryptopro.app), free edition is absolutely fine, this is our choice
+2. **Blockfolio** - [https://blockfolio.com](https://blockfolio.com), probably the most popular one
 
 # Table of Contents
 
