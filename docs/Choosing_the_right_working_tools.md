@@ -4,7 +4,8 @@ This page will guide you through the initial questions and decisions you should 
 ### 1. What coin(s) are you interested in?
 
 You probably already have selected one or more tokens you want to buy now. If there are more, make a complete list of those you seriously plan to buy now or in near future. Think about how much money you plan to invest and how you split it.
-The reason for doing this is that various coins use various wallets, there are also multi cryptocurrency wallets available, but you'll have to check their compatibility and in the end not all coins are supported by HW wallets. So this is important for your future decisions.
+
+> :bulb: The reason for doing this is that various coins use various wallets, there are also multi cryptocurrency wallets available, but you'll have to check their compatibility and in the end not all coins are supported by HW wallets. So this is important for your future decisions.
 
 ### 2. No coins on Exchanges
 
