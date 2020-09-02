@@ -12,7 +12,7 @@ For example, if you tell someone on the internet that you own a lot of bitcoins,
 Just remember, loose lips sink ships.
 
 ### Keep your recovery seed safe
-Your recovery seed is all that is needed to access your coins. The physical security of your recovery seed is the most important thing. If you decide to use HW wallet and it is stolen, it is improbable that the thieves would be able to access it without your PIN. However, if someone steals your recovery seed, your coins can be accessed easily using a different device or wallet.
+**Your recovery seed is all that is needed to access your coins.** The physical security of your recovery seed is the most important thing. If you decide to use HW wallet and it is stolen, it is improbable that the thieves would be able to access it without your PIN. However, if someone steals your recovery seed, your coins can be accessed easily using a different device or wallet.
 
 If your HW wallet is lost or stops working, the recovery seed is the only way to get your coins back. It is crucial to store your seed somewhere safe from theft or physical damage (e.g., in case of a fire or a flood). It is generally recommended using a piece of paper or cryptosteel. We will describe this in more detail later, but now it is important that you think about this and find a safe place.
 
