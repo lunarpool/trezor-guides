@@ -48,7 +48,7 @@ If you plan to buy various coins you probably will have to use different user in
 
 There are many such apps, some of them just mobile, some desktop, some both, just try to Google "multi cryptocurrency wallet". Remember, always use software from known sources so you can be sure your coins are safe.
 
-Therefore we would recommend you **Exodus**, preferably desktop version, visit [www.exodus.io](https://www.exodus.io) and check whether you like it. Exodus has quite wide support and can operate together with HW wallets so in the end you could be using HW wallet as the security key storage and Exodus as the user interface you like and know how to operate.
+Therefore we would recommend you **Exodus**, preferably desktop version, visit [www.exodus.io](https://www.exodus.io) and check whether you like it. Exodus has quite wide support and can operate together with Trezor so in the end you could be using Trezor as the security key storage and Exodus as the user interface you like and know how to operate.
 
 ### 7. Coin compatibility
 
@@ -58,13 +58,13 @@ Now it's time for the list of coins you made at point 1. You will now check thei
 
 Visit [https://trezor.io/coins/](https://trezor.io/coins?offer_id=12&aff_id=5184&source=github_trezor_guides_Choosing_the_right_working_tools) and make a note whether your coins are compatible with Model One, Model T and which wallets are supported. If Trezor is listed then you will be able to manage the coin directly from Trezor web page, if there are different wallets listed only then you'll have to visit different website and authorize with your Trezor device. If you see Exodus mentioned as well then our prefered multi wallet is compatible as well.
 
-1. **Ledger compatibility and support**
+2. **Ledger compatibility and support**
 
 Visit [https://www.ledger.com/supported-crypto-assets/](https://www.ledger.com/supported-crypto-assets/) and make a note whether Send/Receive is available and which wallets are supported. Similar to Trezor, wherever you see Ledger Live means the coins is manageable natively by the device and its user interface.
 
 3. **Exodus compatibility***
 
-
+Visit [https://www.exodus.io/status/](https://www.exodus.io/status/) to check the coins Exodus can support. Note that the support is different for Mobile, Desktop and Desktop+Trezor.
 
 # Table of Contents
 
