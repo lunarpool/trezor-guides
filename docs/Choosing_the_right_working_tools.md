@@ -78,6 +78,15 @@ There are many apps available, we will mention 2 we believe are used by most:
 1. **Crypto Pro** - [https://cryptopro.app](https://cryptopro.app), free edition is absolutely fine, this is our choice
 2. **Blockfolio** - [https://blockfolio.com](https://blockfolio.com), probably the most popular one
 
+### 9. Time for a decission
+
+Now you should decide which way to go, which wallet to use. To make your decission easier go through these questions. Skip those not relevant:
+
+1. Am I willing to invest into a hardware wallet? (varies between $70 and $215)
+2. Does my selected hardware wallet support all the coins I plan to buy?
+ - (it does not really matter if directly or via external wallet)
+3.
+
 # Table of Contents
 
 [Back to Repository Home page](../README.md)
